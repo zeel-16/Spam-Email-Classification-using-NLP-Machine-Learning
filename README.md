@@ -4,14 +4,11 @@ This project is a Spam Email Classification System that leverages Natural Langua
 
 <h2>🚀 Features</h2>
 <h6>Text Preprocessing:</h6>
-Removes unnecessary characters, punctuation, and stop words.
-Converts text to lowercase and applies stemming/lemmatization.
+Removes unnecessary characters, punctuation, and duplication.
 <h6>Feature Extraction:</h6>
 Uses TF-IDF Vectorization or Bag of Words for numerical representation of text.
 <h6>Machine Learning Models:</h6>
-Supports classification models like Naive Bayes, Logistic Regression, or Random Forest for spam detection.
-<h6>Evaluation Metrics:</h6>
-Calculates precision, recall, F1 score, and accuracy for model performance.
+Supports classification models like Naive Bayes for spam detection.
 <h6>Real-Time Prediction:</h6>
 Allows users to input email content and predict if it is spam or not.
 
@@ -20,5 +17,10 @@ The project uses a publicly available dataset, such as the SMS Spam Collection D
 
 <h2>🛠️ Technologies Used</h2>
 <h6>Python</h6>: Core programming language.
-<h6>NLP Libraries</h6>: NLTK, SpaCy, or Scikit-learn for text preprocessing and feature extraction.
+<h6>NLP Libraries</h6>: Scikit-learn for text preprocessing and feature extraction.
 <h6>Machine Learning Libraries</h6>: Scikit-learn for model building and evaluation.
+<h6>User Interface</h6>: Streamlit for enhanced user interface.
+
+<h2>Installation</h2>
+git clone https://github.com/your-username/spam-email-classifier.git
+cd spam-email-classifier
