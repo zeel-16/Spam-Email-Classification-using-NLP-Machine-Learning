@@ -17,6 +17,8 @@ The project uses a publicly available dataset for training and testing.
 
 <h2>🛠️ Technologies Used</h2>
 <h6>Python</h6>: Core programming language.
+<h6>Pandas</h6>: For data loading, cleaning, and manipulation.
+<h6>NumPy</h6>: For numerical computations and efficient data processing.
 <h6>NLP Libraries</h6>: Scikit-learn for text preprocessing and feature extraction.
 <h6>Machine Learning Libraries</h6>: Scikit-learn for model building and evaluation.
 <h6>User Interface</h6>: Streamlit for enhanced user interface.
