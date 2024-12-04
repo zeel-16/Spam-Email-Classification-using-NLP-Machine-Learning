@@ -13,7 +13,7 @@ Supports classification models like Naive Bayes for spam detection.
 Allows users to input email content and predict if it is spam or not.
 
 <h2>📊 Datasets</h2>
-The project uses a publicly available dataset, such as the SMS Spam Collection Dataset or the Enron Email Dataset, for training and testing.
+The project uses a publicly available dataset for training and testing.
 
 <h2>🛠️ Technologies Used</h2>
 <h6>Python</h6>: Core programming language.
