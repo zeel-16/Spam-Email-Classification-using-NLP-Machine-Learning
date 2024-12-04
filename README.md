@@ -24,5 +24,6 @@ The project uses a publicly available dataset for training and testing.
 <h6>Streamlit</h6>: for enhanced user interface.
 
 <h2>Installation</h2>
-git clone https://github.com/your-username/spam-email-classifier.git
-cd spam-email-classifier
+git clone https://github.com/your-username/spam-email-classification.git
+
+cd spam-email-classification
